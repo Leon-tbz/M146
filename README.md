@@ -11,4 +11,3 @@ Die Präsentation beinhaltet:
 o Einen Erfahrungsbericht
 
 o Erklärung, welche Herausforderungen die Überwachung des SSL/TLS Datenverkehrs mit sich bringt.
-
