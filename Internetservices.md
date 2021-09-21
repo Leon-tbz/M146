@@ -2,47 +2,14 @@
 
 [eigene Server „inhouse“](#inhouse)
 
-dedizierte Server (Root-Server) bei Provider
+[dedizierte Server (Root-Server) bei Provider](#Dedizierter)
 
-Services beim Provider (Shared hosting)
+[Services beim Provider (Shared hosting)](#Services)
 
 
 
 <h2>Inhouse</h2>
 
-vfdg
-e
-gerg
-e
-g
+<h2>Dedizierter</h2>
 
-gfd
-g
-df
-g
-
-fg
-dg
-
-df
-
-gdf
-
-g
-
-
-f
-
-
-
-f
-
-f
-
-
-
-f
-
-
-f
-
+<h2>Services</h2>
