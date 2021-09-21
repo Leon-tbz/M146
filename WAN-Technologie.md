@@ -36,4 +36,4 @@ XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten AD
 ---
 
 <h3>Fibre (FTTH)</h3>
-
+Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schneller als normale LAN Kabel, jedoch sind sie um einiges zerbrechlicher, da sie aus Glas bestehen
