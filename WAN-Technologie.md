@@ -28,12 +28,12 @@ XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten AD
 
 <h4>Vorteile</h4>
 
-- billig
+- Billig
 
 <h4>Nachteile</h4>
 
 - Internet Geschwindigkeit hängt von der entfernung zum Provider ab
-- nicht überall erreichbar
+- Nicht überall erreichbar
 
 ---
 
@@ -43,7 +43,7 @@ Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schn
 
 <h4>Vorteile</h4>
 
-- schnell
+- Schnell
 - Leistungsfähigkeit
 - Stabilität
 
@@ -51,7 +51,7 @@ Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schn
 
 - Leistungsverluste
 - Internet Geschwindigkeit hängt von der entfernung zum Provider ab
-- teurer
+- Teurer
 
 ---
 
@@ -61,15 +61,30 @@ Die Internetverbindung via Kabel wird am meisten bei normalen Konsumenten benutz
 
 <h4>Vorteile</h4>
 
-- unabhängig von Provider
-- billiger als Glasfaser
-- hohe Verfügbarkeit
+- Unabhängig von Provider
+- Billiger als Glasfaser
+- Hohe Verfügbarkeit
 
 <h4>Nachteile</h4>
 
-- nicht so schnell wie Glasfaser
+- Nicht so schnell wie Glasfaser
 - 100 Meter Reichweite
 
 ---
 
 <h3>Radiolink</h3>
+
+Radiolink ist eine Verbindungsart ohne Kabel, was es auf grosse Reichweite ideal macht, jedoch nicht so sicher ist wie per Kabel
+
+<h4>Vorteile</h4>
+
+- Keine Kabel
+- Einfaches Setup
+- Flexibel
+- Kosteneffizient
+
+<h4>Nachteile</h4>
+
+- Weniger sicher
+- Geschwindigkeit
+- Störungen
