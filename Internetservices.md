@@ -12,4 +12,4 @@
 
 <h2>Dedizierter</h2>
 
-<h2>Services</h2>
+<h2>Service</h2>
