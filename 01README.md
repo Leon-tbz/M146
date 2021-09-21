@@ -2,19 +2,19 @@
 ---
 **Einleitung** 
 ---
-<br>
+
 Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
 
+---
 
-<b>Teammitglieder</b>
+<h2>Teammitglieder</h2
 
-Zeender Yanic 
-<br>
-Lennemann Noah
-<br>
-Rezek Léon
+- Zeender Yanic 
+- Lennemann Noah
+- Rezek Léon
 
 **Inhaltsverzeichnis:**
+
 1. <a href="https://github.com/Leon-tbz/M146/blob/main/Übertragunsrate.md">Übertragunsrate</a>
 2. <a href="https://github.com/Leon-tbz/M146/blob/main/WAN-Technologie.md">WAN-Technologie</a>
 3. <a href="https://github.com/Leon-tbz/M146/blob/main/Internetserviices.md">Internetservices</a>
