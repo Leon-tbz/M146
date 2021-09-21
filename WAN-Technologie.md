@@ -52,3 +52,24 @@ Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schn
 - Leistungsverluste
 - Internet Geschwindigkeit hängt von der entfernung zum Provider ab
 - teurer
+
+---
+
+<h3>Cable</h3>
+
+Die Internetverbindung via Kabel wird am meisten bei normalen Konsumenten benutzt
+
+<h4>Vorteile</h4>
+
+- unabhängig von Provider
+- billiger als Glasfaser
+- hohe Verfügbarkeit
+
+<h4>Nachteile</h4>
+
+- nicht so schnell wie Glasfaser
+- 100 Meter Reichweite
+
+---
+
+<h3>Radiolink</h3>
