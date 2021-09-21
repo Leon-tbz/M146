@@ -17,7 +17,7 @@ Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenz
 2. <a href="https://github.com/Leon-tbz/M146/blob/main/WAN-Technologie.md">WAN-Technologie</a>
 3. <a href="https://github.com/Leon-tbz/M146/blob/main/Internetservices.md">Internetservices</a>
 4. <a href="https://github.com/Leon-tbz/M146/blob/main/Sicherheit.md">Sicherheit</a>
-5. <a href="https://github.com/Leon-tbz/M146/blob/main/Überwachung.md">Wartung / Überwachung</a>
+5. <a href="https://github.com/Leon-tbz/M146/blob/main/Wartung.md">Wartung / Überwachung</a>
 6. <a href="https://github.com/Leon-tbz/M146/blob/main/Firewall.md">Firewall</a>
 7. <a href="https://github.com/Leon-tbz/M146/blob/main/VPN.md">VPN</a>
 8. <a href="https://github.com/Leon-tbz/M146/blob/main/Vertiefungsthema.md">Vertiefungsthema</a>
