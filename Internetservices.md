@@ -10,6 +10,8 @@
 
 <h2>Inhouse</h2>
 
+Das Internet Intern mit einem Server zu betreiben, beschert der Firma das schnellstmögliche Internet. Ausserdem ist es auch viel sicherer mit dieser Methode. Ebenfalls hat man keine SLA's oder ähnliche Abmachungen um die man sich kümmern müsste.
+Der Nachteil dabei ist jedoch, dass man seinen Server selbst Support bereitstellen muss (keine Hotline). Ausserdem ist der Spass um einiges teurer als ein normaler Internetanschluss
 <h2>Dedizierter</h2>
 
 <h2>Service</h2>
