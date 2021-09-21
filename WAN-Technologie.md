@@ -25,8 +25,8 @@ Welche Verbindung eignet sich auch für Backup-Leitungen?
 
 <thead>
   <tr>
-    <th class="tg-0lax">morge</th>
-    <th class="tg-0lax">morge</th>
+    <th class="tg-0lax">WAN-Technologie</th>
+    <th class="tg-0lax">Unterschiede</th>
   </tr>
 </thead>
 <tbody>
