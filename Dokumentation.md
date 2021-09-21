@@ -32,4 +32,13 @@ Nach der Erstellung des Anschlusses musste man in den Firewalleinstellungen, ein
 ![grafik](https://user-images.githubusercontent.com/89446419/134173182-89aad81d-da4a-4b1b-952d-0a4417a5b76c.png)
 
 ---
+**5.** 
+----
+# Troubleshooting #
+Beim Versuch die benötigten Packages für den Web-Proxy zu installieren, hatten wir das Problem, dass man über die Firewall, die Adresse: 8.8.8.8 und den Gateway nicht pingen konnten.
+Beim wechslen des Anschlusses auf WAN von br0 auf ens18 konnte das Problem auch nicht gelöst werden.
+
+![grafik](https://user-images.githubusercontent.com/89446419/134184334-b29296a1-9561-4c93-93ac-ab1d4a98eb0d.png)
+
+
 
