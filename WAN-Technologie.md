@@ -22,33 +22,4 @@ Welche Verbindung eignet sich auch für Backup-Leitungen?
 
 <h2>Unterschiede</h2>
 
-
-<thead>
-  <tr>
-    <th class="tg-0lax">WAN-Technologie</th>
-    <th class="tg-0lax">Unterschiede</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
+<u><h3>xDSL</h3></u>
