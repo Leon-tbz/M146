@@ -5,11 +5,9 @@ Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenz
 ---
 Teammitglieder
 
-Zeender Yanic 
-
-Lennemann Noah
-
-Rezek Leon
+- Zeender Yanic 
+- Lennemann Noah
+- Rezek Leon
 
 ---
 Inhaltsverzeichnis
