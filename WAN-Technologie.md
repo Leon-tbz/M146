@@ -41,7 +41,7 @@ DSL Internet ist die beste Wahl, wenn man nicht viel budet hat. Für eine Famili
 
 ---
 
-<h3>Fibre (FTTH)</h3>
+<h3>Fibre</h3>
 
 Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schneller als normale LAN Kabel, jedoch sind sie um einiges zerbrechlicher, da sie aus Glas bestehen.
 
