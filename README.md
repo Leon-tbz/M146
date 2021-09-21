@@ -16,12 +16,12 @@ Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenz
 
 <h2>Inhaltsverzeichnis</h2>
 
-1. <a href="www.google.ch">Thema 1</a>, Übertragunsrate
-2. Thema 2, WAN-Technologie
-3. Thema 3, Internetservices
-4. Thema 4, Sicherheit
-5. Thema 5, Wartung / Überwachung
-6. Vertiefungsthema
+1. <a href="www.google.ch">Übertragunsrate</a>
+2. <a href="www.google.ch">WAN-Technologie</a>
+3. <a href="www.google.ch">Internetservices</a>
+4. <a href="www.google.ch">Sicherheit</a>
+5. <a href="www.google.ch">Wartung / Überwachung</a>
+6. <a href="www.google.ch">Vertiefungsthema</a>
 
 ---
 
