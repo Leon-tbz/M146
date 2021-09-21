@@ -2,13 +2,13 @@
 
 [xDSL](#xDSL)
 
-[Fibre (FTTH)](#Fibre (FTTH))
+[Fibre (FTTH)](#Fibre)
 
 [Cable](#Cable)
 
 [Radiolink](#Radiolink)
 
-[Satellit](#Radiolink)
+[Satellit](#Satellit)
 
 
 Wie unterscheiden sich diese WAN-Technologien zueinander?
