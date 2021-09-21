@@ -42,9 +42,22 @@ Um den Squid Proxy zu betreiben, mussten wir zu erst die Packages installieren.
 ---
 1. Als nächstes ist das Ziel den Proxy inbetrieb zu nehmen. Darum gehen wir in den Reiter: "Services > Squid Proxy Server" und legen die Grösse des Cache fest.
 
+![grafik](https://user-images.githubusercontent.com/89446419/134207862-51b2b03b-2183-4446-83bd-dda95ebfe7af.png)
+
+
 2. Als nächstes ist es nötig den Hacken unter: Squid General Settings zu setzen, das Interface und den Port zu definieren. In diesem Fall hatten wir als Interface LAN mit dem Port 3128 augewählt. Um den Zugriff der User zu gewährleisten, muss man zusätzlich noch den Hacken bei " Allow Users on Interface" rein tun, sodass die Users automatisch im gleichen Proxy LAN verbunden sind.
+
+![grafik](https://user-images.githubusercontent.com/89446419/134208303-49c96a36-56c5-4dbc-9a8d-df84507867f0.png)
+
+
 3. Im nächsten Schritt hat man nun die Möglichkeit, im Menu: "Squid Access Control List" mit Proxy, Internetwebsiten zu blocken.
+
+
+
 4. Zum Schluss muss man noch die Destination IP und den entsprechenden Port definieren und auf der Firewall den Zugriff geben, dass der Internetverkehr über den Proxy Server laufen darf.
+
+![grafik](https://user-images.githubusercontent.com/89446419/134208804-f9883fe5-258a-416e-8480-a908e6c10819.png)
+
 ---
 **7. Funktionalität**
 ---
