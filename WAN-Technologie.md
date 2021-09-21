@@ -22,4 +22,4 @@ Welche Verbindung eignet sich auch für Backup-Leitungen?
 
 <h2>Unterschiede</h2>
 
-<u><h3>xDSL</h3></u>
+<u>xDSL</u>
