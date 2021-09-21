@@ -23,3 +23,13 @@ Nachdem erfolgreichen Aufsetzen der Pfsense, hat man nun die Möglichkeit, mit d
 - Erstellen von VLANs usw.
 
 ![grafik](https://user-images.githubusercontent.com/89446419/134165610-f87976c8-7430-467c-ab2c-f0873417010b.png)
+---
+**4. OPT-Anschluss**
+---
+Um Zugriff auf das Internet zu haben, musste man zusätzlich einen OPT-Anschluss erstellen, der als WAN-Anschluss dient.
+Nach der Erstellung des Anschlusses musste man in den Firewalleinstellungen, eine neue Firewall-Regel erstellen und die Protokolle zulassen, sodass man nach dem wechseln des WAN-Anschluss immer noch Zugriff auf das Webinterface hat.
+
+![grafik](https://user-images.githubusercontent.com/89446419/134173182-89aad81d-da4a-4b1b-952d-0a4417a5b76c.png)
+
+---
+
