@@ -1,11 +1,9 @@
 # M146 LB1
 
-**Einleitung** 
+<h1>Einleitung</h1>
 
 
 Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
-
----
 
 <h2>Teammitglieder</h2
 
@@ -13,7 +11,7 @@ Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenz
 - Lennemann Noah
 - Rezek Léon
 
-**Inhaltsverzeichnis:**
+<h2>Inhaltsverzeichnis</h2>
 
 1. <a href="https://github.com/Leon-tbz/M146/blob/main/Übertragunsrate.md">Übertragunsrate</a>
 2. <a href="https://github.com/Leon-tbz/M146/blob/main/WAN-Technologie.md">WAN-Technologie</a>
