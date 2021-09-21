@@ -38,6 +38,7 @@ XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten AD
 <h4>Situationen</h4>
 
 DSL Internet ist die beste Wahl, wenn man nicht viel budet hat. Für eine Familie oder alleinstehende Personen ist es optimal, doch für die grosse Menge wäre es eher nicht zu empfehlen. 
+
 ---
 
 <h3>Fibre (FTTH)</h3>
@@ -59,6 +60,7 @@ Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schn
 <h4>Situationen</h4>
 
 Internet über Glasfaser ist optimal für Firmen, welche schnelles Internet brauchen, dank der schnellen Geschwindigkeit und der Leistungsfähigkeit. 
+
 ---
 
 <h3>Cable</h3>
@@ -102,6 +104,7 @@ Radiolink ist eine Verbindungsart ohne Kabel, was es auf grosse Reichweite ideal
 <h4>Situationen</h4>
 
 der Radiolink Anschluss ist gut für Firmen / Wohnungen geeignet, welche keine Lust auf ein Kabelsalat haben und keine Top Secret Aufgaben über diesen erledigen.
+
 ---
 
 <h3>Satellit</h3>
