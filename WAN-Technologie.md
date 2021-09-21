@@ -1,14 +1,14 @@
 <h2>Vergleichen Sie verschiedene WAN-Technologien:</h2>
 
-[test](#xDSL)
+[xDSL](#xDSL)
 
-Fibre (FTTH)
+[Fibre (FTTH)](#Fibre (FTTH))
 
-Cable
+[Cable](#Cable)
 
-Radiolink
+[Radiolink](#Radiolink)
 
-Satellit
+[Satellit](#Radiolink)
 
 
 Wie unterscheiden sich diese WAN-Technologien zueinander?
