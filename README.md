@@ -14,7 +14,7 @@ Lennemann Noah
 <br>
 Rezek Léon
 
-Inhaltsverzeichnis
+**Inhaltsverzeichnis:**
 1. <a href="https://github.com/Leon-tbz/M146/blob/main/Übertragunsrate.md">Übertragunsrate</a>
 2. <a href="https://github.com/Leon-tbz/M146/blob/main/WAN-Technologie.md">WAN-Technologie</a>
 3. <a href="https://github.com/Leon-tbz/M146/blob/main/Internetserviices.md">Internetservices</a>
