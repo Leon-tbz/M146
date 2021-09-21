@@ -1,6 +1,7 @@
 # M146 LB1
-
-Einleitung 
+---
+**Einleitung** 
+---
 <br>
 Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
 
@@ -11,7 +12,7 @@ Zeender Yanic
 <br>
 Lennemann Noah
 <br>
-Rezek Leon
+Rezek Léon
 
 Inhaltsverzeichnis
 1. <a href="https://github.com/Leon-tbz/M146/blob/main/Übertragunsrate.md">Übertragunsrate</a>
