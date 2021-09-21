@@ -35,6 +35,8 @@ XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten AD
 - Internet Geschwindigkeit hängt von der entfernung zum Provider ab
 - Nicht überall erreichbar
 
+<h4>Situationen</h4>
+
 ---
 
 <h3>Fibre (FTTH)</h3>
@@ -53,6 +55,8 @@ Fibre ist das englische Wort für die Glasfaser Kabel. Diese sind zwar viel schn
 - Internet Geschwindigkeit hängt von der entfernung zum Provider ab
 - Teurer
 
+<h4>Situationen</h4>
+
 ---
 
 <h3>Cable</h3>
@@ -69,6 +73,8 @@ Die Internetverbindung via Kabel wird am meisten bei normalen Konsumenten benutz
 
 - Nicht so schnell wie Glasfaser
 - 100 Meter Reichweite
+
+<h4>Situationen</h4>
 
 ---
 
@@ -89,6 +95,7 @@ Radiolink ist eine Verbindungsart ohne Kabel, was es auf grosse Reichweite ideal
 - Geschwindigkeit
 - Störungen
 
+<h4>Situationen</h4>
 ---
 
 <h3>Satellit</h3>
@@ -106,6 +113,4 @@ Internet über Satelit ist eine Verbindungsart, welche nicht oft verwendet wird,
 - Installation
 - Preise
 
----
-
-<h2>Situationen</h2>
+<h4>Situationen</h4>
