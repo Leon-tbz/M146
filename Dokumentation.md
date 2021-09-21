@@ -49,7 +49,7 @@ Um den Squid Proxy zu betreiben, mussten wir zu erst die Packages installieren.
 **7. Funktionalität**
 ---
 Um den Squid Proxy zu testen, haben wir über ein Debian Client, der vom DHCP automatisch eine IP-Adresse zugewiesen bekommen hat, folgende Befehle getestet:
-_ping 192.168.1.1
+_ping 192.168.1.1_
 
 _telnet 192.168.1.1 3128_
 
