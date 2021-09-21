@@ -107,3 +107,5 @@ Internet über Satelit ist eine Verbindungsart, welche nicht oft verwendet wird,
 - Preise
 
 ---
+
+<h2>Situationen</h2>
