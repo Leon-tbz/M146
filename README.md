@@ -21,7 +21,7 @@ Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenz
 3. <a href="www.google.ch">Internetservices</a>
 4. <a href="www.google.ch">Sicherheit</a>
 5. <a href="www.google.ch">Wartung / Überwachung</a>
-6. <a href="www.google.ch">Dokumentation</a>
+6. <a href="https://github.com/Leon-tbz/M146/blob/main/Dokumentation">Dokumentation</a>
 7. <a href="www.google.ch">Vertiefungsthema</a>
 
 ---
