@@ -53,6 +53,7 @@ Um den Squid Proxy zu testen, haben wir über ein Debian Client, der vom DHCP au
 _ping 192.168.1.1_
 
 _telnet 192.168.1.1 3128_
+
 ---
 # Troubleshooting #
 Beim Versuch die benötigten Packages für den Web-Proxy zu installieren, hatten wir das Problem, dass man über die Firewall, die Adresse: 8.8.8.8 und den Gateway nicht pingen konnten, obwohl eine Gültige IP-Adressen zugwiesen wurden. Beim wechslen des Anschlusses auf WAN von br0 auf ens18 konnte das Problem auch nicht gelöst werden.
