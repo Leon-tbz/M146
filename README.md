@@ -1,6 +1,9 @@
 # M146 LB1
 
-Einleitung
+Einleitung 
+<br>
+Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
+
 
 <b>Teammitglieder</b>
 
