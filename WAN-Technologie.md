@@ -88,3 +88,22 @@ Radiolink ist eine Verbindungsart ohne Kabel, was es auf grosse Reichweite ideal
 - Weniger sicher
 - Geschwindigkeit
 - Störungen
+
+---
+
+<h3>Satellit</h3>
+
+Internet über Satelit ist eine Verbindungsart, welche nicht oft verwendet wird, aber seine Vor- und Nachteile hat.
+
+<h3>Vorteile</h3>
+
+- Internet auf Land möglich
+- Mobilität
+
+<h3>Nachteile</h3>
+
+- Geschwindigkeit
+- Installation
+- Preise
+
+---
