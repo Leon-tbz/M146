@@ -1,14 +1,9 @@
 # M146 LB1
 
-<b>
-  Einleitung
-</b>
+<b>Einleitung</b>
+<br>Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
 <br>
-Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
-<br>
-<b>
-  Teammitglieder
-</b>
+<b>Teammitglieder</b>
 
 Zeender Yanic 
 <br>
