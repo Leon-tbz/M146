@@ -15,3 +15,11 @@ Nach dem man die Pfsense starten konnte, hatte man die Möglichkeit, das Netzwer
 ![grafik](https://user-images.githubusercontent.com/89446419/134164514-d5c9cd44-6c18-415f-8acf-dc3da922cd34.png)
 
 ---
+**3. Zugriff/Konfiguration im Webinterface**
+---
+Nachdem erfolgreichen Aufsetzen der Pfsense, hat man nun die Möglichkeit, mit der gesetzten IP-Adresse per Browser Zugriff auf das Webinterface zu erhalten. Nun hat man folgende Möglichkeiten: 
+- Statusabfragen des Netzwerktraffics
+- Erstellung von Firewallregeln
+- Erstellen von VLANs usw.
+
+![grafik](https://user-images.githubusercontent.com/89446419/134165610-f87976c8-7430-467c-ab2c-f0873417010b.png)
