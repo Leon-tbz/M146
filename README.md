@@ -1,16 +1,16 @@
 # M146 LB1
 
-<b>Einleitung</b>
-<br>Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
-<br>
-<b>Teammitglieder</b>
+Einleitung
+Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenzubringen.
+
+Teammitglieder
 
 Zeender Yanic 
-<br>
+
 Lennemann Noah
-<br>
+
 Rezek Leon
-<br>
+
 ---
 Inhaltsverzeichnis
 1. Thema 1, Übertragunsrate
