@@ -21,7 +21,7 @@ Welche Verbindung eignet sich auch für Backup-Leitungen?
 
 
 <h2>Unterschiede</h2>
-
+---
 <h3>xDSL</h3>
 
 XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten ADSL, HDSL, SDSL, SHDSL, UDSL, VDSL. Es bezeichnet die Verbindung des Festnetzinternets via Telefonkabel (LAN-Kabel)
@@ -31,5 +31,7 @@ XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten AD
 
 <h4>Nachteile</h4>
 - Internet Geschwindigkeit hängt von der entfernung zum Provider ab
+- nicht überall erreichbar
+---
+<h3>Fibre (FTTH)</h3>
 
-baba
