@@ -3,11 +3,11 @@
 Einleitung
 
 <b>Teammitglieder</b>
+
+Zeender Yanic 
 <br>
-Zeender Yanic
-
 Lennemann Noah
-
+<br>
 Rezek Leon
 
 Inhaltsverzeichnis
