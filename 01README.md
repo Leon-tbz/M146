@@ -15,7 +15,7 @@ Dieses Repo wurde erstellt, um die Inhalte des Moduls 146 an einem Ort zusammenz
 
 1. <a href="https://github.com/Leon-tbz/M146/blob/main/Übertragunsrate.md">Übertragunsrate</a>
 2. <a href="https://github.com/Leon-tbz/M146/blob/main/WAN-Technologie.md">WAN-Technologie</a>
-3. <a href="https://github.com/Leon-tbz/M146/blob/main/Internetserviices.md">Internetservices</a>
+3. <a href="https://github.com/Leon-tbz/M146/blob/main/Internetservices.md">Internetservices</a>
 4. <a href="https://github.com/Leon-tbz/M146/blob/main/Sicherheit.md">Sicherheit</a>
 5. <a href="https://github.com/Leon-tbz/M146/blob/main/Überwachung.md">Wartung / Überwachung</a>
 6. <a href="https://github.com/Leon-tbz/M146/blob/main/Firewall.md">Firewall</a>
