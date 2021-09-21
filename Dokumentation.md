@@ -45,8 +45,13 @@ Um den Squid Proxy zu betreiben, mussten wir zu erst die Packages installieren.
 2. Als nächstes ist es nötig den Hacken unter: Squid General Settings zu setzen, das Interface und den Port zu definieren. In diesem Fall hatten wir als Interface LAN mit dem Port 3128 augewählt. Um den Zugriff der User zu gewährleisten, muss man zusätzlich noch den Hacken bei " Allow Users on Interface" rein tun, sodass die Users automatisch im gleichen Proxy LAN verbunden sind.
 3. Im nächsten Schritt hat man nun die Möglichkeit, im Menu: "Squid Access Control List" mit Proxy, Internetwebsiten zu blocken.
 4. Zum Schluss muss man noch die Destination IP und den entsprechenden Port definieren und auf der Firewall den Zugriff geben, dass der Internetverkehr über den Proxy Server laufen darf.
+---
+**7. Funktionalität**
+---
+Um den Squid Proxy zu testen, haben wir über ein Debian Client, der vom DHCP automatisch eine IP-Adresse zugewiesen bekommen hat, folgende Befehle getestet:
+_ping 192.168.1.1
 
-
+_telnet 192.168.1.1 3128_
 
 # Troubleshooting #
 Beim Versuch die benötigten Packages für den Web-Proxy zu installieren, hatten wir das Problem, dass man über die Firewall, die Adresse: 8.8.8.8 und den Gateway nicht pingen konnten, obwohl eine Gültige IP-Adressen zugwiesen wurden. Beim wechslen des Anschlusses auf WAN von br0 auf ens18 konnte das Problem auch nicht gelöst werden.
