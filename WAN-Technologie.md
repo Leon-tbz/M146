@@ -22,4 +22,6 @@ Welche Verbindung eignet sich auch für Backup-Leitungen?
 
 <h2>Unterschiede</h2>
 
-<u>xDSL</u>
+<h3>xDSL</h3>
+
+XDSL (Digital Subscriber Line)ist die Sammelbezeichung für die DSL Varianten ADSL, HDSL, SDSL, SHDSL, UDSL, VDSL
