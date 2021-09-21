@@ -10,5 +10,8 @@ Dazu haben wir den Wan-Anschluss indem Fall die Wolke, die Pfsense Firewall, ein
 ---
 **2. Konfiguration der Pfsense Firewall**
 ---
-Nach dem man die Pfsense starten konnte, hatte man die Möglichkeit, das Netzwerkinterface zu konfigurieren. Mit der Auswahl "1" konnte man die Zuordnung des externen WAN und internen LAN Inter-faces anpassen. Im 
+Nach dem man die Pfsense starten konnte, hatte man die Möglichkeit, das Netzwerkinterface zu konfigurieren. Mit der Auswahl "1" konnte man die Zuordnung des externen WAN und internen LAN Inter-faces anpassen. Im nächsten Schritt konnte man mit der Auswahl "2" im Terminal die IP-Adresse der Firewall konfigurieren. Da, das Netzwerk: 192.168.23.0 ist, haben wir uns für die Pfsense auf die IP: 192.168.23.134 entschieden. 
 
+![grafik](https://user-images.githubusercontent.com/89446419/134164514-d5c9cd44-6c18-415f-8acf-dc3da922cd34.png)
+
+---
