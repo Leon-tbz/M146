@@ -78,6 +78,7 @@ Durch ein MicroTik, der über ein Switch zwischen WAN zu Pfsense hinzugefügt wu
 
 ![grafik](https://user-images.githubusercontent.com/89446419/134189005-a5fc7417-b9a9-490a-a47b-80c72c046b85.png)
 
+Beim letzten Schritt der Anleitung, beim testen des Proxy Servers, haben wir ein Problem gefunden. Wir können die IP vom Squid Proxy nicht pingen. 
 
 
 
