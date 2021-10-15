@@ -6,7 +6,9 @@
 Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen? Beschreiben Sie konkret, mit welchen Tools Sie das machen würden. Es wird erwartet, dass Sie mindestens 5 geeignete Tools finden.
 
 [Proxy](#Proxy)
+
 [Firewall](#Firewall)
+
 [PRTG](#PRTG)
 
 
