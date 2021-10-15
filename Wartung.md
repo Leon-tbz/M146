@@ -51,3 +51,4 @@ Nun brauchen wir am besten nich ein Log Tool. Dafür ist Splunk eine gute Wahl. 
 
 Splunk ermöglicht es verschiedene Dateien, Meztiken und auch Log Dateien anzuschauen und zu Filtern. Somit spart man sich viel Zeit, und bringt Struktur.
 
+---
