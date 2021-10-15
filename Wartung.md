@@ -21,7 +21,7 @@ Ein Proxy-Server ist ein Vermittler innerhalb eines Netzwerks. Er arbeitet zwisc
 ---
 <h3>Firewall</h3>
 
-Jede Firma, ob gross oder klein, sollte eine Firewall haben. Diese braucht man, um sich von attacken von ausserhalb zu schützen
+Jede Firma, ob gross oder klein, sollte eine Firewall haben. Diese braucht man, um sich von attacken von ausserhalb zu schützen,
 
 Die Firewall ist simpel gesagt wie ein Türsteher, welcher entscheidet wer ins System hereinkommen darf und wer nicht. Man kann Manuell Einstellen, welche Zugriffe erlaubt werden sollten. Dies macht man mit sogenannten Regeln. 
 
@@ -29,3 +29,6 @@ Die Firewall ist simpel gesagt wie ein Türsteher, welcher entscheidet wer ins S
 
 <h3>PRTG</h3>
 
+Die Firma sollte sicher auch noch ein gutes Monitoring Tool haben. PRTG ist dabei eine gute Wahl. Somit kann man das System überwachen und schnell reagieren, falls etwas schief geht.
+
+Mit dem PRTG Tool, kann man einfach merhere Systeme / Computer im Blick behalten, ohne grossen Aufwand zu betreiben. Zum Beispiel kann man sehen, wie voll ein Tablespace bei einer Datenbank ist, oder die Temperatur der CPU. Auf der Web App hat man alles übersichtlich an einem Ort. Ausserdem kann man auch Benachrichtigungen aktivieren, um error's direkt beheben zu können.
