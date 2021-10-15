@@ -59,3 +59,10 @@ Splunk ermöglicht es verschiedene Dateien, Meztiken und auch Log Dateien anzusc
 
 Um die Langfristigkeit des Internetzugans zu erhalten, Wartet man sie regelmässig. Bei solch einem Prozess, ist das Ziel, den Internetzugang aktuell und in takt zu halten. Folgende Kriterien, sollten bei einem Wartungsprozess des Internetzugangs unbedingt vorhanden sein:
 
+- Geschwindigkeit (in Mbit/s)
+- Übereinstimmung der Geschwindigkeit mit dem Vetrag
+- Gesamtauslastung / eventuelle Erweiterung der Bandbreite
+- Funktionsfähigkeit der LAN-Kabel
+- 
+- 
+- 
