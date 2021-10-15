@@ -11,6 +11,8 @@ Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen
 
 [PRTG](#PRTG)
 
+[Wireshark](#Wireshark)
+
 ---
 <h3>Proxy</h3>
 
@@ -32,3 +34,7 @@ Die Firewall ist simpel gesagt wie ein Türsteher, welcher entscheidet wer ins S
 Die Firma sollte sicher auch noch ein gutes Monitoring Tool haben. PRTG ist dabei eine gute Wahl. Somit kann man das System überwachen und schnell reagieren, falls etwas schief geht.
 
 Mit dem PRTG Tool, kann man einfach merhere Systeme / Computer im Blick behalten, ohne grossen Aufwand zu betreiben. Zum Beispiel kann man sehen, wie voll ein Tablespace bei einer Datenbank ist, oder die Temperatur der CPU. Auf der Web App hat man alles übersichtlich an einem Ort. Ausserdem kann man auch Benachrichtigungen aktivieren, um error's direkt beheben zu können.
+
+<h3>Wireshark</h3>
+
+Mit Wireshark kann man den Netzwerk Datenverkehr Analysieren und überwachen. Dadurch kann man zum Beispiel auch DDoS attacken erkennen und Gegenmassnahmen ergreifen.
