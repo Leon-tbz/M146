@@ -11,7 +11,7 @@ Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen
 
 [PRTG](#PRTG)
 
-...
+---
 <h3>Proxy</h3>
 
 Um der Firma einen sicheren Zugang zum Internet zu gewähren würden wir auf jeden Fall einen Proxy empfehlen. Mit diesem kann man sich Sicherheitstechnisch gut absichern
