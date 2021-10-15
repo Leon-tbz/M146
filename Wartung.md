@@ -13,6 +13,8 @@ Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen
 
 [Wireshark](#Wireshark)
 
+[Splunk](#Splunk)
+
 ---
 <h3>Proxy</h3>
 
@@ -40,3 +42,7 @@ Mit dem PRTG Tool, kann man einfach merhere Systeme / Computer im Blick behalten
 <h3>Wireshark</h3>
 
 Mit Wireshark kann man den Netzwerk Datenverkehr Analysieren und überwachen. Dadurch kann man zum Beispiel auch DDoS attacken erkennen und Gegenmassnahmen ergreifen. Das Programm ist Open Source, und einfach zu verstehen. Es gibt auch die Möglichkeit den Traffic zu filtern. Zum Beispiel falls man nur die Aktionen von einer gewissen IP Addresse sehen will, oder nur die Aktionen eines gewissen Protokolls, wie DHCP
+
+---
+
+<h3>Splunk</h3>
