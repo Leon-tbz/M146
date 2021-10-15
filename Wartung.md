@@ -35,6 +35,8 @@ Die Firma sollte sicher auch noch ein gutes Monitoring Tool haben. PRTG ist dabe
 
 Mit dem PRTG Tool, kann man einfach merhere Systeme / Computer im Blick behalten, ohne grossen Aufwand zu betreiben. Zum Beispiel kann man sehen, wie voll ein Tablespace bei einer Datenbank ist, oder die Temperatur der CPU. Auf der Web App hat man alles übersichtlich an einem Ort. Ausserdem kann man auch Benachrichtigungen aktivieren, um error's direkt beheben zu können.
 
+--- 
+
 <h3>Wireshark</h3>
 
 Mit Wireshark kann man den Netzwerk Datenverkehr Analysieren und überwachen. Dadurch kann man zum Beispiel auch DDoS attacken erkennen und Gegenmassnahmen ergreifen. Das Programm ist Open Source, und einfach zu verstehen. Es gibt auch die Möglichkeit den Traffic zu filtern. Zum Beispiel falls man nur die Aktionen von einer gewissen IP Addresse sehen will, oder nur die Aktionen eines gewissen Protokolls, wie DHCP
