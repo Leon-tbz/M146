@@ -15,7 +15,7 @@ Wie würden Sie die Überwachung des Internetzuganges dieser Firma sicherstellen
 
 [Splunk](#Splunk)
 
-[Wartung](#Wartung des Internetzugangs)
+[Wartung](#Wartung)
 
 ---
 <h3>Proxy</h3>
@@ -55,7 +55,7 @@ Splunk ermöglicht es verschiedene Dateien, Meztiken und auch Log Dateien anzusc
 
 ---
 
-<h2>Wartung des Internetzugangs</h2>
+<h2>Wartung</h2>
 
 Um die Langfristigkeit des Internetzugans zu erhalten, Wartet man sie regelmässig. Bei solch einem Prozess, ist das Ziel, den Internetzugang aktuell und in takt zu halten. Folgende Kriterien, sollten bei einem Wartungsprozess des Internetzugangs unbedingt vorhanden sein:
 
