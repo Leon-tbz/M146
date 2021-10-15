@@ -46,3 +46,6 @@ Mit Wireshark kann man den Netzwerk Datenverkehr Analysieren und überwachen. Da
 ---
 
 <h3>Splunk</h3>
+
+Nun brauchen wir am besten nich ein Log Tool. Dafür ist Splunk eine gute Wahl. Es ist wichtig, eine Art von Log Mechanissmus in einer Firma zu haben. Dadurch kann man einfach an gewünschte Daten kommen.
+
